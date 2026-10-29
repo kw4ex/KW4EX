@@ -20,11 +20,15 @@ All details: **[kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)**
 | | Latest | |
 | --- | --- | --- |
 | **KPA1500 Thetis Bridge** — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [Download and instructions](https://github.com/kw4ex/kpa1500-thetis-bridge) |
+| **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [Download and instructions](https://github.com/kw4ex/flexknob-for-thetis) |
 
 ## Good to know
 
 - **Only one program should control the amplifier at a time.** Use the Zeus
   feature *or* the Thetis bridge, not both at once.
+- **Only one program can use the FlexControl knob at a time.** If you have both
+  the Thetis bridge and *FlexControl Knob for Thetis*, switch off the knob in
+  the bridge (the knob program's instructions show how).
 - Questions or problems: open an issue on the program's page.
 
 ## No warranty — use at your own risk
