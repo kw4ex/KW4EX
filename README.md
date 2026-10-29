@@ -27,4 +27,14 @@ All details: **[kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)**
   feature *or* the Thetis bridge, not both at once.
 - Questions or problems: open an issue on the program's page.
 
+## No warranty — use at your own risk
+
+Everything here is shared free by one radio operator, **as is**. There is **no
+warranty of any kind**: no promise that it works, that it is safe, or that it
+suits your equipment or purpose. Amplifiers, radios and antennas can be
+damaged, and RF can be dangerous. You are responsible for checking that it
+behaves correctly with your own station and for operating within your license.
+The author is not liable for any damage or loss. Not made, approved or
+supported by Elecraft, FlexRadio, Telepost, Thetis or Zeus.
+
 73 de KW4EX
