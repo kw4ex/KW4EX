@@ -1,6 +1,6 @@
 # KW4EX — station software
 
-Free, open-source tools I use to tie my **Elecraft KPA1500** amplifier, a
+Open-source tools I use to tie my **Elecraft KPA1500** amplifier, a
 **FlexRadio FlexControl** tuning knob and an SDR program together. Written for
 operators, not programmers: each one comes with a step-by-step guide.
 
@@ -33,7 +33,7 @@ All details: **[kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)**
 
 ## No warranty — use at your own risk
 
-Everything here is shared free by one radio operator, **as is**. There is **no
+Everything here is shared by one radio operator, **as is**. There is **no
 warranty of any kind**: no promise that it works, that it is safe, or that it
 suits your equipment or purpose. Amplifiers, radios and antennas can be
 damaged, and RF can be dangerous. You are responsible for checking that it
