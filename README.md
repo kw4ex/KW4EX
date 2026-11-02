@@ -15,10 +15,11 @@ Add-ons ("community features") that install from inside Zeus.
 
 All details: **[kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)**
 
-## For Thetis (Windows)
+## For Thetis and NereusSDR (Windows)
 
 | | Latest | |
 | --- | --- | --- |
+| **KPA1500 SDR Bridge** — the KPA1500 with **Thetis or NereusSDR** (and Thetis HL2, SDR-VST3): an Applet window with meters, buttons and knob info, Thetis windows, safe TUNE, "No antenna?" protection, browser control panel, FlexControl knob support, LP-100A readings, one-click installer | 2.40 | [Download and instructions](https://github.com/kw4ex/kpa1500-sdr-bridge) |
 | **KPA1500 Thetis Bridge** — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [Download and instructions](https://github.com/kw4ex/kpa1500-thetis-bridge) |
 | **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [Download and instructions](https://github.com/kw4ex/flexknob-for-thetis) |
 
@@ -26,6 +27,8 @@ All details: **[kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)**
 
 - **Only one program should control the amplifier at a time.** Use the Zeus
   feature *or* the Thetis bridge, not both at once.
+- **The KPA1500 SDR Bridge replaces the KPA1500 Thetis Bridge** if you use NereusSDR or want the
+  Applet window. Run only one of the two bridges at a time; the SDR bridge closes the other when it starts.
 - **Only one program can use the FlexControl knob at a time.** If you have both
   the Thetis bridge and *FlexControl Knob for Thetis*, switch off the knob in
   the bridge (the knob program's instructions show how).
