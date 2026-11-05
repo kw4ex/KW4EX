@@ -19,7 +19,7 @@ unzip it. Older versions are on each add-on's Releases page.
 
 More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-for-zeus)** · **[flexknob-for-zeus](https://github.com/kw4ex/flexknob-for-zeus)**
 
-## For Thetis and NereusSDR (Windows)
+## For Thetis and NereusSDR (Windows only)
 
 | | Latest | |
 | --- | --- | --- |
