@@ -11,13 +11,13 @@ Add-ons ("community features") that install from inside Zeus.
 | | Latest | Get it |
 | --- | --- | --- |
 | **Elecraft KPA1500** — meters and buttons for the amp and its ATU; works with a FlexRadio too; the amp follows the VFO; Standby on Tune; "No antenna?" warning; a browser page for your computer, tablet or phone; power-on over the network | 1.4.4 | [**Download**](https://github.com/kw4ex/zeus-amp/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/zeus-amp/blob/main/docs/guides/KPA1500-for-Zeus-guide.pdf) |
-| **FlexControl Knob** — VFO tuning, AF volume, AGC gain and more; every press programmable | 1.0.1 | [**Download**](https://github.com/kw4ex/zeus-amp/releases/tag/flexknob-v1.0.1) · [Guide (PDF)](https://github.com/kw4ex/zeus-amp/blob/main/docs/guides/FlexControl-Knob-for-Zeus-guide.pdf) |
+| **FlexControl Knob** — VFO tuning, AF volume, AGC gain and more; every press programmable | 1.0.1 | [**Download**](https://github.com/kw4ex/flexknob-for-zeus/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/flexknob-for-zeus/blob/main/docs/guides/FlexControl-Knob-for-Zeus-guide.pdf) |
 
 **How to download a Zeus add-on:** click its **Download**, scroll to **Assets** at the bottom of that page, and
 click the file for your computer (the page has a table saying which). Don't click "Source code", and don't
-unzip it. Older versions are on the [Releases page](https://github.com/kw4ex/zeus-amp/releases).
+unzip it. Older versions are on each add-on's Releases page.
 
-More about these add-ons: **[kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)**
+More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/zeus-amp)** · **[flexknob-for-zeus](https://github.com/kw4ex/flexknob-for-zeus)**
 
 ## For Thetis and NereusSDR (Windows)
 
