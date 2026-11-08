@@ -19,6 +19,12 @@ unzip it. Older versions are on each add-on's Releases page.
 
 More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-for-zeus)** · **[flexknob-for-zeus](https://github.com/kw4ex/flexknob-for-zeus)**
 
+## For FlexRadio SmartSDR (Windows only, experimental)
+
+| | Latest | Get it |
+| --- | --- | --- |
+| **KPA1500 SmartSDR Bridge** (experimental) — SmartSDR sees the KPA1500 as a **Power Genius XL** amplifier and a **Tuner Genius XL** tuner: meters, Operate/Standby, tuner Operate/Bypass/Tune, the amp follows your transmit frequency, C1/L/C2 bars; no serial cable; one-click installer. Mac, Linux and Raspberry Pi versions are still being tested. | 2.50 | [**Download**](https://github.com/kw4ex/kpa1500-smartsdr-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa1500-smartsdr-bridge/blob/main/docs/guides/KPA1500-SmartSDR-Bridge-guide.pdf) |
+
 ## For Thetis and NereusSDR (Windows only)
 
 | | Latest | |
@@ -33,6 +39,8 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
   feature *or* the Thetis bridge, not both at once.
 - **The KPA1500 SDR Bridge replaces the KPA1500 Thetis Bridge** if you use NereusSDR or want the
   Applet window. Run only one of the two bridges at a time; the SDR bridge closes the other when it starts.
+- **The KPA1500 SmartSDR Bridge also controls the amplifier.** Run only one bridge at a time (SmartSDR bridge,
+  SDR bridge or Thetis bridge); each closes the others when it starts. Don't combine it with the Zeus feature.
 - **Only one program can use the FlexControl knob at a time.** If you have both
   the Thetis bridge and *FlexControl Knob for Thetis*, switch off the knob in
   the bridge (the knob program's instructions show how).
