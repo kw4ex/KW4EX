@@ -23,7 +23,7 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 
 | | Latest | Get it |
 | --- | --- | --- |
-| **KPA1500 SmartSDR Bridge** (experimental) — SmartSDR sees the KPA1500 as a **Power Genius XL** amplifier and a **Tuner Genius XL** tuner: meters, Operate/Standby, tuner Operate/Bypass/Tune, the amp follows your transmit frequency, C1/L/C2 bars; no serial cable; one-click installer. Mac, Linux and Raspberry Pi versions are still being tested. | 2.50 | [**Download**](https://github.com/kw4ex/kpa1500-smartsdr-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa1500-smartsdr-bridge/blob/main/docs/guides/KPA1500-SmartSDR-Bridge-guide.pdf) |
+| **KPA1500 SmartSDR Bridge** (experimental) — SmartSDR sees the KPA1500 as a **Power Genius XL** amplifier and a **Tuner Genius XL** tuner: meters, Operate/Standby, tuner Operate/Bypass/Tune, the amp follows your transmit frequency, C1/L/C2 bars; no serial cable; one-click installer. Mac, Linux and Raspberry Pi versions are still being tested. | 2.51 | [**Download**](https://github.com/kw4ex/kpa1500-smartsdr-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa1500-smartsdr-bridge/blob/main/docs/guides/KPA1500-SmartSDR-Bridge-guide.pdf) |
 
 ## For Thetis and NereusSDR (Windows only)
 
