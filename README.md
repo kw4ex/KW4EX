@@ -29,7 +29,7 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 
 | | Latest | |
 | --- | --- | --- |
-| **KPA1500 SDR Bridge** — the KPA1500 with **Thetis or NereusSDR** (and Thetis HL2, SDR-VST3): an Applet window with meters, buttons and knob info, Thetis windows, safe TUNE, "No antenna?" protection, browser control panel, FlexControl knob support, LP-100A readings, one-click installer | 2.40 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases/latest) |
+| **KPA1500 SDR Bridge** — the KPA1500 with **Thetis or NereusSDR** (and Thetis HL2, SDR-VST3): an Applet window with meters, buttons and knob info, Thetis windows, safe TUNE, "No antenna?" protection, browser control panel, FlexControl knob support, LP-100A readings, one-click installer | 2.41 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases/latest) |
 | **KPA1500 Thetis Bridge** (older; on the SDR Bridge page, below the newest) — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases) |
 | **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [**Download**](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest) |
 
