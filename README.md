@@ -39,7 +39,7 @@ No amplifier and no SDR program needed.
 
 | | Latest | Get it |
 | --- | --- | --- |
-| **RF Noise Map** (testing) — drive a route with an **SDRplay RSP1** and a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Practice mode, one-click installer, built-in setup check, GPS finder and one-minute full test. Mac version is experimental and untested. | coming soon | [**Project page**](https://github.com/kw4ex/RFNoise-Mapping) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) |
+| **RF Noise Map** (testing) — drive a route with an **SDRplay RSP1** and a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Practice mode, one-click installer, built-in setup check, GPS finder and one-minute full test. Mac version is experimental and untested. | 1.2.0 (testing, untested) | [**Download**](https://github.com/kw4ex/RFNoise-Mapping/releases) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) · [Project page](https://github.com/kw4ex/RFNoise-Mapping) |
 
 ## Good to know
 
