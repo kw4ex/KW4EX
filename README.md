@@ -33,6 +33,14 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 | **KPA1500 Thetis Bridge** (older; on the SDR Bridge page, below the newest) — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases) |
 | **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [**Download**](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest) |
 
+## RF noise hunting — SDRplay + GPS (Windows; Mac experimental)
+
+Stand-alone: no amplifier and no SDR program needed.
+
+| | Latest | Get it |
+| --- | --- | --- |
+| **RF Noise Map** (testing) — drive a route with an **SDRplay RSP1** and a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Practice mode, one-click installer, built-in setup check, GPS finder and one-minute full test. Mac version is experimental and untested. | coming soon | [**Project page**](https://github.com/kw4ex/RFNoise-Mapping) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) |
+
 ## Good to know
 
 - **Only one program should control the amplifier at a time.** Use the Zeus
@@ -44,6 +52,7 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 - **Only one program can use the FlexControl knob at a time.** If you have both
   the Thetis bridge and *FlexControl Knob for Thetis*, switch off the knob in
   the bridge (the knob program's instructions show how).
+- **RF Noise Map uses the SDRplay radio by itself.** Close other SDR programs (SDRuno, SDRconnect and similar) first; it can list and close them for you.
 - Questions or problems: open an issue on the program's page.
 
 ## No warranty — use at your own risk
@@ -54,6 +63,6 @@ suits your equipment or purpose. Amplifiers, radios and antennas can be
 damaged, and RF can be dangerous. You are responsible for checking that it
 behaves correctly with your own station and for operating within your license.
 The author is not liable for any damage or loss. Not made, approved or
-supported by Elecraft, FlexRadio, Telepost, Thetis or Zeus.
+supported by Elecraft, FlexRadio, SDRplay, Telepost, Thetis or Zeus.
 
 73 de KW4EX
