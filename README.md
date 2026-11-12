@@ -33,9 +33,9 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 | **KPA1500 Thetis Bridge** (older; on the SDR Bridge page, below the newest) — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases) |
 | **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [**Download**](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest) |
 
-## RF noise hunting — SDRplay + GPS (Windows; Mac experimental)
+## Stand-alone tools for amateur radio
 
-Stand-alone: no amplifier and no SDR program needed.
+No amplifier and no SDR program needed.
 
 | | Latest | Get it |
 | --- | --- | --- |
