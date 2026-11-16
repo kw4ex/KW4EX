@@ -39,7 +39,7 @@ No amplifier and no SDR program needed.
 
 | | Latest | Get it |
 | --- | --- | --- |
-| **RF Noise Map** (testing) — drive a route with an **SDRplay RSP1**, a **Hermes Lite 2**, or both together, plus a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Live panadapter for each frequency, with sound and recording on the Hermes. Practice mode, one-click installer, built-in setup check, GPS finder and one-minute full test. Hermes Lite 2 support is tested only on a simulated radio so far; Mac version is experimental. | 1.3.0 (testing, untested) | [**Download**](https://github.com/kw4ex/RFNoise-Mapping/releases) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) · [Project page](https://github.com/kw4ex/RFNoise-Mapping) |
+| **RF Noise Map** (testing) — drive a route with up to **four radios** (an **SDRplay RSP1**, a **Hermes Lite 2** and low-price **RTL-SDR dongles**, in any mix; any radio can serve any of the four slots) plus a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Live panadapter for each frequency, with sound and recording on the Hermes, and auto gain and gain per band for the Hermes. Practice mode, one-click installer, built-in setup check, GPS finder and one-minute full test. The Hermes Lite 2 and SDRplay have been run on real radios; the new RTL-SDR dongle support has only been tried with simulated dongles. Mac version is experimental (Hermes goes through a USB Ethernet adapter, Wi-Fi left on). | 1.4.0 (testing, untested with real dongles) | [**Download**](https://github.com/kw4ex/RFNoise-Mapping/releases) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) · [Project page](https://github.com/kw4ex/RFNoise-Mapping) |
 
 ## Good to know
 
@@ -52,7 +52,7 @@ No amplifier and no SDR program needed.
 - **Only one program can use the FlexControl knob at a time.** If you have both
   the Thetis bridge and *FlexControl Knob for Thetis*, switch off the knob in
   the bridge (the knob program's instructions show how).
-- **RF Noise Map needs the SDRplay radio to itself.** Close other SDR programs (SDRuno, SDRconnect and similar) first; it can list and close them for you. The Hermes Lite 2 connects by network cable and needs no driver.
+- **RF Noise Map needs each radio to itself.** Close other SDR programs (SDRuno, SDRconnect, Thetis and similar) first; it can list and close them for you. The Hermes Lite 2 connects by network cable and needs no driver; RTL-SDR dongles need a one-time driver step (the guide shows it).
 - Questions or problems: open an issue on the program's page.
 
 ## No warranty — use at your own risk
