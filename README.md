@@ -29,7 +29,7 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 
 | | Latest | |
 | --- | --- | --- |
-| **KPA1500 SDR Bridge** — the KPA1500 with **Thetis or NereusSDR** (and Thetis HL2, SDR-VST3): an Applet window with meters, buttons and knob info, Thetis windows, safe TUNE, "No antenna?" protection, browser control panel, FlexControl knob support, LP-100A readings, one-click installer | 2.43 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa1500-sdr-bridge/blob/main/docs/guides/KPA1500-SDR-Bridge-guide.pdf) |
+| **KPA1500 SDR Bridge** — the KPA1500 with **Thetis or NereusSDR** (and Thetis HL2, SDR-VST3): an Applet window with meters, buttons and knob info, Thetis windows, safe TUNE, "No antenna?" protection, browser control panel, FlexControl knob support, LP-100A readings, one-click installer | 2.49 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa1500-sdr-bridge/blob/main/docs/guides/KPA1500-SDR-Bridge-guide.pdf) |
 | **KPA1500 Thetis Bridge** (older; on the SDR Bridge page, below the newest) — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases) |
 | **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [**Download**](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest) |
 
@@ -39,7 +39,7 @@ No amplifier and no SDR program needed.
 
 | | Latest | Get it |
 | --- | --- | --- |
-| **RF Noise Map** (testing) — drive a route with up to **four radios** (an **SDRplay RSP1**, a **Hermes Lite 2** and low-price **RTL-SDR dongles**, in any mix; any radio can serve any of the four slots) plus a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Live panadapter for each frequency, with sound and recording on the Hermes, and auto gain and gain per band for the Hermes. Practice mode, one-click installer, built-in setup check, GPS finder and one-minute full test. The Hermes Lite 2 and SDRplay have been run on real radios; the new RTL-SDR dongle support has only been tried with simulated dongles. Mac version is experimental (Hermes goes through a USB Ethernet adapter, Wi-Fi left on). | 1.4.0 (testing, untested with real dongles) | [**Download**](https://github.com/kw4ex/RFNoise-Mapping/releases) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) · [Project page](https://github.com/kw4ex/RFNoise-Mapping) |
+| **RF Noise Map** (testing) — drive a route with up to **four radios** (an **SDRplay RSP1**, a **Hermes Lite 2**, an **ANAN** (Apache Labs, for example the ANAN-7000DLE MkIII) and low-price **RTL-SDR dongles**, in any mix; any radio can serve any of the four slots) plus a GPS; it logs the signal about every 10 feet on up to 4 frequencies and draws a street map of dots from blue (weak) to red (strong), so you can find noisy power lines and poles. Live panadapter and its own S-meter for each frequency, with sound and recording on the Hermes and the ANAN, and auto gain and gain per band for the Hermes. A compact, laptop-friendly screen with pop-up windows for drives, maps and tools. Practice mode, one-click installer, built-in health check, GPS finder and one-minute full test. The Hermes Lite 2, SDRplay and ANAN have been run on real radios; the RTL-SDR dongle support has only been tried with simulated dongles. Mac version is experimental (Hermes goes through a USB Ethernet adapter, Wi-Fi left on). | 1.6.0 (testing, untested with real dongles) | [**Download**](https://github.com/kw4ex/RFNoise-Mapping/releases) · [Guide (PDF)](https://github.com/kw4ex/RFNoise-Mapping/blob/main/docs/guides/RFNoise-Mapping-guide.pdf) · [Project page](https://github.com/kw4ex/RFNoise-Mapping) |
 
 ## Good to know
 
@@ -63,6 +63,6 @@ suits your equipment or purpose. Amplifiers, radios and antennas can be
 damaged, and RF can be dangerous. You are responsible for checking that it
 behaves correctly with your own station and for operating within your license.
 The author is not liable for any damage or loss. Not made, approved or
-supported by Elecraft, FlexRadio, SDRplay, Telepost, Thetis or Zeus.
+supported by Elecraft, FlexRadio, SDRplay, Telepost, Thetis, Apache Labs or Zeus.
 
 73 de KW4EX
