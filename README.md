@@ -30,7 +30,6 @@ More about each add-on: **[kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-fo
 | | Latest | |
 | --- | --- | --- |
 | **KPA1500 SDR Bridge** — the KPA1500 with **Thetis or NereusSDR** (and Thetis HL2, SDR-VST3): an Applet window with meters, buttons and knob info, Thetis windows, safe TUNE, "No antenna?" protection, browser control panel, FlexControl knob support, LP-100A readings, one-click installer | 2.49 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa1500-sdr-bridge/blob/main/docs/guides/KPA1500-SDR-Bridge-guide.pdf) |
-| **KPA1500 Thetis Bridge** (older; on the SDR Bridge page, below the newest) — the KPA1500 inside Thetis, Thetis HL2 and SDR-VST3: meters and lit buttons in Thetis windows, safe TUNE, "No antenna?" warning, browser control panel, FlexControl knob support (works without the amp too), LP-100A readings | 2.31 | [**Download**](https://github.com/kw4ex/kpa1500-sdr-bridge/releases) |
 | **FlexControl Knob for Thetis** — the FlexControl knob for Thetis, Thetis HL2 and SDR-VST3 with **no amplifier needed**: VFO tuning, AF volume, AGC gain and more; every press programmable; browser panel and Thetis window | 1.0.0 | [**Download**](https://github.com/kw4ex/flexknob-sdr-bridge/releases/latest) |
 
 ## Stand-alone tools for amateur radio
@@ -44,13 +43,11 @@ No amplifier and no SDR program needed.
 ## Good to know
 
 - **Only one program should control the amplifier at a time.** Use the Zeus
-  feature *or* the Thetis bridge, not both at once.
-- **The KPA1500 SDR Bridge replaces the KPA1500 Thetis Bridge** if you use NereusSDR or want the
-  Applet window. Run only one of the two bridges at a time; the SDR bridge closes the other when it starts.
-- **The KPA1500 SmartSDR Bridge also controls the amplifier.** Run only one bridge at a time (SmartSDR bridge,
-  SDR bridge or Thetis bridge); each closes the others when it starts. Don't combine it with the Zeus feature.
+  feature *or* the KPA1500 SDR Bridge, not both at once.
+- **The KPA1500 SmartSDR Bridge also controls the amplifier.** Run only one bridge at a time (SmartSDR bridge
+  or SDR bridge); each closes the other when it starts. Don't combine it with the Zeus feature.
 - **Only one program can use the FlexControl knob at a time.** If you have both
-  the Thetis bridge and *FlexControl Knob for Thetis*, switch off the knob in
+  the KPA1500 SDR Bridge and *FlexControl Knob for Thetis*, switch off the knob in
   the bridge (the knob program's instructions show how).
 - **RF Noise Map needs each radio to itself.** Close other SDR programs (SDRuno, SDRconnect, Thetis and similar) first; it can list and close them for you. The Hermes Lite 2 connects by network cable and needs no driver; RTL-SDR dongles need a one-time driver step (the guide shows it).
 - Questions or problems: open an issue on the program's page.
