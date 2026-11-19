@@ -38,7 +38,7 @@ Essentially the **KPA1500 SDR Bridge** and the **KPA1500 SmartSDR Bridge** combi
 
 | | Latest | Get it |
 | --- | --- | --- |
-| **KPA Bridge** (experimental) — the KPA1500 with **Thetis, NereusSDR, Thetis HL2, SDR-VST3 and FlexRadio SmartSDR** (the amplifier appears as a PGXL and the tuner as a TGXL). The amplifier follows the radio you last tuned or transmitted on. One-click installer, one shortcut that starts and stops the bridge, Applet window, browser control panel. Design and on-air testing by KW4EX. | 3.0f (experimental) | [**Download**](https://github.com/kw4ex/kpa-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa-bridge/blob/main/docs/guides/KPA-Bridge-guide.pdf) · [Project page](https://github.com/kw4ex/kpa-bridge) |
+| **KPA Bridge** (experimental) — the KPA1500 with **Thetis, NereusSDR, Thetis HL2, SDR-VST3 and FlexRadio SmartSDR** (the amplifier appears as a PGXL and the tuner as a TGXL). The amplifier follows the radio you last tuned or transmitted on. One-click installer, one shortcut that starts and stops the bridge, Applet window, browser control panel. Design and on-air testing by KW4EX. | 3.0g (experimental) | [**Download**](https://github.com/kw4ex/kpa-bridge/releases/latest) · [Guide (PDF)](https://github.com/kw4ex/kpa-bridge/blob/main/docs/guides/KPA-Bridge-guide.pdf) · [Project page](https://github.com/kw4ex/kpa-bridge) |
 
 ## Stand-alone tools for amateur radio
 
